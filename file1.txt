@@ -1,3 +1,4 @@
 I am writing into file.txt
 
-my extra additions 
+
+New additions by someone else
