@@ -3,4 +3,6 @@ I am writing into file.txt
 
 New additions by someone else
 
+New new additions
+
 Joe additions
